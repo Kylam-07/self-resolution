@@ -1,2 +1,2 @@
 Plan:
-1. Finish Numerical Method web
+1. Finish Numerical Method Calculator
