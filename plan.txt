@@ -2,3 +2,5 @@ Plan:
 1. Finish Numerical Method Calculator
 
 Big Plan:
+
+Small Plan:
