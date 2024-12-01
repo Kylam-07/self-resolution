@@ -4,6 +4,7 @@ Normal Plan:
 3. Summarize whole material
 
 Big Plan:
-2. Create big project
+1. Create big project
 
 Small Plan:
+1. Exercise
