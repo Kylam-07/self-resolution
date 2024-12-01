@@ -1,4 +1,4 @@
-Plan:
+Normal Plan:
 1. Finish Numerical Method Calculator
 2. Create scoring app for badminton
 3. Summarize whole material
