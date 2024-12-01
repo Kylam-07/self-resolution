@@ -1,5 +1,6 @@
 Plan:
 1. Finish Numerical Method Calculator
+2. Summarize whole material
 
 Big Plan:
 
